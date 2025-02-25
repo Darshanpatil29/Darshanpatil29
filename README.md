@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microservices based application<br>🌱 I’m currently learning Java Backend development ( SpringBoot, Spring MVC)<br>💬 Ask me about Java Development and MERN stack <br>⚡ Fun fact
+🔭 I’m currently learning Apex and Salesforce development <br>💬 Ask me about Java Development and MERN stack <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
